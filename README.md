@@ -1,6 +1,6 @@
 # Mercury One
 <a href="https://discord.com/invite/gzJP2s8" target="_blank">![Discord Shield](https://discord.com/api/guilds/747612067951018075/widget.png?style=banner2)</a>
-Website: https://zerogdesign.github.io/index.html
+<br>Website: https://zerogdesign.github.io/index.html
 ____
 <img src="./Renders//render.png"><br><br>
 The official open beta of the Zero G Mercury One 3D printer inspired by Voron.<br>
