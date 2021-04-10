@@ -1,5 +1,5 @@
 # Mercury One
-![Discord Shield](https://discord.com/api/guilds/747612067951018075/widget.png?style=banner2)
+<a href="https://discord.com/invite/gzJP2s8" target="_blank">![Discord Shield](https://discord.com/api/guilds/747612067951018075/widget.png?style=banner2)</a>
 
 ____
 <img src="./Renders//render.png"><br><br>
