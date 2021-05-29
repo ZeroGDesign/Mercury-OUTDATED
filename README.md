@@ -3,7 +3,7 @@
 <br>Website: https://zerogdesign.github.io/index.html
 ____
 <img src="./Renders//render.png"><br><br>
-The official open beta of the Zero G Mercury One 3D printer inspired by Voron.<br>
+The official release Zero G Mercury One 3D printer inspired by Voron.<br>
 This project uses a 370mm x Extrusion and 3 x 300mm MGN12H rails<BR><BR>
 Recommended print settings: https://i.imgur.com/dN6sj4v.png
 ____
