@@ -6,7 +6,7 @@ We'd like to recommend you to join our [Discord server](https://discord.io/zerog
 
 ## Documentation
 
-The new files can be found on our [documentation](https://docs.zerog.one/){:target="_blank"} under section "manual"  We're activly working on the documentation to make your world easier.
+The new files can be found on our [documentation](https://docs.zerog.one/) under section "manual"  We're activly working on the documentation to make your world easier.
 
 <a href="https://ko-fi.com/zerog" target="_blank"><img src="https://cdn.ko-fi.com/cdn/useruploads/384a276e-2f3c-44ba-906d-3bfbd79fa7be.png" alt="Buy Me A Coffee" style="height: 181.5px !important;width: 333px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
