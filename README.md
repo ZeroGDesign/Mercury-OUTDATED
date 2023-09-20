@@ -2,6 +2,8 @@
 
 The file configurators are live for our EVA 2.4 setup. Please use these from now on: [https://docs.zerog.one/manual/build/mercury_eva/printed_files#-mercury-one1-configurator](https://docs.zerog.one/manual/build/mercury_eva/printed_files#-mercury-one1-configurator)
 
+Or find the cad files here: https://github.com/ZeroGDesign/docs/blob/gh-pages/docs/assets/stl/m1_1/mercury_235_assembly.step
+
 # UPDATE
 
 We're moving towards Mercury 1.1, this will support the Voron Stealthburner and Eva 2.4.
